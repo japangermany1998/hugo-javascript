@@ -22,6 +22,8 @@ enableGitInfo = true
 # 是否使用 emoji 代码
 enableEmoji = true
 
+[minify]
+  disableJSON = true
 [languages]
   [languages.en]
     weight = 1
